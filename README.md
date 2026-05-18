@@ -1,1 +1,2 @@
-# pdo-olin
+# PDO-olin
+Probabilistic Design Optimization
